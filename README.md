@@ -1,1 +1,1 @@
-# Golang-Stepik-course
+# golang-stepik-course
